@@ -1,0 +1,9 @@
+git checkout -f ---used for revert changes
+git restore --staged <filename> --- to restore changes
+git rm ---to rename file
+git ignore <filename> ---to ignore specific file
+to ignore multiple file add file .gitignore
+to ignore multiple same extention file *.<fileextention> eg.- *.log
+
+git diff - to check changes made in file
+
